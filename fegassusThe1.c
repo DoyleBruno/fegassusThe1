@@ -80,7 +80,7 @@ nodeEntry_t nodeTable[] =
   },
   {
     11,
-    "After looking around the room, you come across a mask that really stands out. Behind it, you find a leaver. Do you pull the lever or look around more?",
+    "After looking around the room, you come across a mask that really stands out. Behind it, you find a lever. Do you pull the lever or look around more?",
     2,
     {
       {"pull lever", 13},
